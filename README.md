@@ -12,4 +12,4 @@ Sou estudante de Sistemas de Informação e atuo no setor administrativo, desenv
 * **[Sistema de Transporte](https://github.com/gabrisantoss/sistema-transporte-olhadura)**: Ferramenta de BI e apontamentos para logística agrícola.
 
 ---
-[LinkedIn](www.linkedin.com/in/gabriel-santos-49874a356) • [E-mail](santozgabriiel@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gabriel-santos-49874a356) • [E-mail](mailto:santozgabriiel@gmail.com)
