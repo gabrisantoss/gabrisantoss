@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, sou o Gabriel!
 
-<!--
-**gabrisantoss/gabrisantoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Sistemas de Informação e atuo no setor administrativo, desenvolvendo soluções para otimização de processos e análise de dados.
 
-Here are some ideas to get you started:
+## 🛠 Habilidades & Tecnologias
+* **Linguagens:** Python (Foco em Automação e Dados), C (Acadêmico).
+* **Ferramentas:** Pandas, PyQt5, Excel Avançado, SQLite.
+* **Foco Atual:** Engenharia de Software e Migração de Legados para Aplicações Desktop.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos Recentes
+* **[Sistema de Gestão de RH](https://github.com/gabrisantoss/sistema-gestao)**: Aplicação completa para controle de colaboradores e escalas, substituindo planilhas manuais.
+* **[Sistema de Transporte](https://github.com/gabrisantoss/sistema-transporte-olhadura)**: Ferramenta de BI e apontamentos para logística agrícola.
+
+---
+[LinkedIn](www.linkedin.com/in/gabriel-santos-49874a356) • [E-mail](santozgabriiel@gmail.com)
