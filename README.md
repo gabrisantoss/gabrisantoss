@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
     <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </p>
   <p>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
@@ -29,7 +29,7 @@ Atualmente curso **Sistemas de Informação** e venho desenvolvendo projetos por
 
 | Projeto | Descrição | Tecnologias |
 | --- | --- | --- |
-| [Portfólio de Sistemas Internos e Automação](https://github.com/gabrisantoss/portfolio-sistemas) | Estudos de caso, prints anonimizados e documentação de sistemas criados para apoiar rotinas internas, operação, RH, transporte, balança e análise de dados. | Python, Flask, SQLite, JavaScript, HTML, CSS, Pandas |
+| [Portfólio de Sistemas Internos e Automação](https://github.com/gabrisantoss/portfolio-sistemas) | Estudos de caso, prints anonimizados e documentação de sistemas criados para apoiar rotinas internas, operação, RH, transporte, balança e análise de dados. | Python, Flask, MySQL, JavaScript, HTML, CSS, Pandas |
 
 O código-fonte dos sistemas reais permanece privado por envolver processos internos e informações sensíveis. O portfólio público foi organizado para mostrar o raciocínio técnico, o impacto das soluções e a evolução dos projetos com segurança.
 
@@ -37,7 +37,7 @@ O código-fonte dos sistemas reais permanece privado por envolver processos inte
 
 - Sistemas internos para substituir controles manuais e planilhas operacionais.
 - Aplicações desktop, web e híbridas com Python, Flask, PyQt5 e PyWebView.
-- Rotinas de importação, tratamento e validação de dados com Pandas, OpenPyXL e SQLite.
+- Rotinas de importação, tratamento e validação de dados com Pandas, OpenPyXL e MySQL.
 - Relatórios administrativos e operacionais em PDF, CSV e painéis de acompanhamento.
 - Interfaces simples para pessoas que precisam usar o sistema no trabalho diário.
 
