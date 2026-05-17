@@ -1,17 +1,35 @@
 <div align="center">
   <h1>Gabriel Barbosa</h1>
   <p><strong>Transformando planilhas, rotinas administrativas e processos legados em software funcional.</strong></p>
-  <p>Estudante de Sistemas de Informação • Python • Aplicações desktop e híbridas • Dados • Automação</p>
+  <p>Estudante de Sistemas de Informação • Python • Sistemas internos • Dados • Automação</p>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-  <img src="https://img.shields.io/badge/PyQt-2CDE85?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/Excel-Legacy%20to%20System-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel to System">
-</p>
+<div align="center">
+  <h3>Stack principal</h3>
+
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+    <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5">
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="OpenPyXL">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/Excel_para_Sistemas-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel para sistemas">
+  </p>
+</div>
 
 > Meu foco hoje é pegar controles soltos, processos manuais e necessidades operacionais reais e transformar isso em sistemas utilizáveis, com mais rastreabilidade, integridade de dados e eficiência.
 
@@ -24,38 +42,30 @@
 ## O que eu construo
 
 - Aplicações desktop e híbridas para uso interno em ambientes administrativos e operacionais.
-- Ferramentas com Python, SQLite, Flask, PyQt, PyWebview e Pandas.
-- Interfaces pensadas para rotina do dia a dia, e não só para demonstração.
+- Ferramentas com Python, SQLite, Flask, PyQt5, PyWebView, Pandas, OpenPyXL e geração de relatórios.
+- Interfaces web com HTML, CSS, JavaScript e React quando o fluxo precisa ser acessado pelo navegador.
+- Sistemas pensados para rotina do dia a dia, e não só para demonstração.
 
-## Projetos que representam meu perfil
+## Projeto público principal
 
-### [Sistema de Transporte Olhadura](https://github.com/gabrisantoss/sistema-transporte-olhadura)
+### [Portfólio de Sistemas Internos e Automação](https://github.com/gabrisantoss/portfolio-sistemas)
 
-Sistema para gestão de transporte e apontamentos, substituindo planilhas manuais por uma aplicação Python com banco de dados e relatórios operacionais.
+Repositório público com estudos de caso, prints anonimizados e documentação de sistemas internos desenvolvidos para apoiar rotinas administrativas e operacionais.
 
-### [Gestão de Ponto com PyWebview](https://github.com/gabrisantoss/gestao-ponto-python-webview)
-
-Aplicação desktop híbrida para controle de ponto, importação de Excel, relatórios e interface web embarcada para operação interna.
-
-### [Sistema de Gestão](https://github.com/gabrisantoss/sistema-gestao)
-
-Projeto desktop para centralizar rotinas de RH e transporte, com cadastro, controle documental e organização operacional.
-
-### [Projetos Acadêmicos](https://github.com/gabrisantoss/Projetos-Academicos)
-
-Repositório com exercícios, trabalhos e projetos da minha formação em Sistemas de Informação.
+O código-fonte dos sistemas reais permanece privado por envolver processos internos, mas o portfólio mostra a lógica dos projetos, as tecnologias aplicadas, os tipos de problema resolvidos e a evolução das soluções.
 
 ## Foco técnico atual
 
-- Python como base para automação e sistemas internos.
+- Python como base para automação, sistemas internos e integração com dados.
 - SQLite e modelagem de dados para aplicações locais robustas.
-- Pandas e Excel para integração com legados.
-- Interfaces desktop e híbridas para equipes que precisam de software prático.
+- Pandas, OpenPyXL e Excel para migração de controles legados.
+- Flask, PyQt5 e PyWebView para aplicações desktop, web e híbridas.
+- JavaScript, HTML, CSS e React para interfaces mais modernas.
 - Evolução contínua em engenharia de software, arquitetura e BI.
 
 ## Bastidores
 
-Parte dos projetos mais recentes que desenvolvo segue privada por atender processos internos reais, especialmente nas frentes de RH e operação agrícola. Ainda assim, o mesmo direcionamento aparece em tudo o que publico: menos improviso, mais sistema confiável.
+Parte dos projetos mais recentes que desenvolvo segue privada por atender processos internos reais, especialmente nas frentes de RH, transporte, balança e operação agrícola. Ainda assim, o mesmo direcionamento aparece em tudo o que publico: menos improviso, mais sistema confiável.
 
 ## Contato
 
