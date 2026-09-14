@@ -1,59 +1,40 @@
-<div align="center">
-  <h1>Gabriel Barbosa</h1>
-  <p><strong>Estudante de Sistemas de Informação construindo sistemas internos, automações e relatórios para problemas reais de operação.</strong></p>
-  <p>Python • Dados • Aplicações desktop e web • Automação de processos • Sistemas administrativos</p>
-</div>
+# Gabriel Barbosa
 
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-    <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt5">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111" alt="JavaScript">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  </p>
-</div>
+Desenvolvo sistemas internos e automações para transformar planilhas e rotinas operacionais em software. Sou estudante de **Sistemas de Informação**, com projetos que conectam cadastros, regras de negócio, integrações e relatórios.
 
-## Sobre mim
+[LinkedIn](https://www.linkedin.com/in/gabriel-santos-49874a356) · [E-mail](mailto:santozgabriiel@gmail.com) · [Estudos de caso](https://github.com/gabrisantoss/portfolio-sistemas)
 
-Meu foco é transformar controles soltos, planilhas e rotinas manuais em sistemas mais organizados, rastreáveis e fáceis de usar. Tenho atuado principalmente com soluções internas para áreas administrativas e operacionais, conectando dados, relatórios, cadastros e fluxos de trabalho em aplicações práticas.
+## Em destaque: Operações Agrícolas
 
-Atualmente curso **Sistemas de Informação** e venho desenvolvendo projetos por iniciativa própria para resolver necessidades reais do ambiente de trabalho.
+Uma suíte com portal integrado, colheita e balança, transporte, colaboradores e análises. **Código público, demonstração funcional e dados fictícios**, sem módulo de mapas ou dependência de uma instalação empresarial.
 
-## Projeto em destaque
+[![Portal da demonstração Operações Agrícolas](https://raw.githubusercontent.com/gabrisantoss/operacoes-agricolas/main/docs/screenshots/portal.png)](https://github.com/gabrisantoss/operacoes-agricolas)
 
-| Projeto | Descrição | Tecnologias |
-| --- | --- | --- |
-| [Portfólio de Sistemas Internos e Automação](https://github.com/gabrisantoss/portfolio-sistemas) | Estudos de caso, prints anonimizados e documentação de sistemas criados para apoiar rotinas internas, operação, RH, transporte, balança e análise de dados. | Python, Flask, MySQL, JavaScript, HTML, CSS, Pandas |
+[Explorar o código e executar](https://github.com/gabrisantoss/operacoes-agricolas#executar-localmente) · [Arquitetura](https://github.com/gabrisantoss/operacoes-agricolas/blob/main/docs/ARQUITETURA.md) · [Validação](https://github.com/gabrisantoss/operacoes-agricolas/blob/main/docs/VALIDACAO.md)
 
-O código-fonte dos sistemas reais permanece privado por envolver processos internos e informações sensíveis. O portfólio público foi organizado para mostrar o raciocínio técnico, o impacto das soluções e a evolução dos projetos com segurança.
+- Portal com sessão compartilhada, permissões e integração entre quatro aplicações.
+- Python/PyQt5, React/TypeScript, APIs Express e persistência em PostgreSQL.
+- Importação e conferência de dados, histórico de alterações e relatórios PDF/Excel.
+- Validação local registrada em 14/09/2026: **240 testes automatizados aprovados e 29 verificações HTTP**. O CI do GitHub cobre verificações de código, build e dependências; não substitui a suíte integrada local.
 
-## O que eu construo
+## Como penso os projetos
 
-- Sistemas internos para substituir controles manuais e planilhas operacionais.
-- Aplicações desktop, web e híbridas com Python, Flask, PyQt5 e PyWebView.
-- Rotinas de importação, tratamento e validação de dados com Pandas, OpenPyXL e MySQL.
-- Relatórios administrativos e operacionais em PDF, CSV e painéis de acompanhamento.
-- Interfaces simples para pessoas que precisam usar o sistema no trabalho diário.
+No [portfólio de sistemas](https://github.com/gabrisantoss/portfolio-sistemas), documento três recortes da mesma suíte, do problema à evidência técnica:
 
-## Direção técnica
+1. [Integrar aplicações sem perder suas regras de negócio](https://github.com/gabrisantoss/portfolio-sistemas/blob/main/cases/01-plataforma-integrada.md).
+2. [Conferir dados operacionais antes de transformá-los em indicadores](https://github.com/gabrisantoss/portfolio-sistemas/blob/main/cases/02-qualidade-dados.md).
+3. [Organizar transporte, documentos e acompanhamento administrativo](https://github.com/gabrisantoss/portfolio-sistemas/blob/main/cases/03-rotinas-administrativas.md).
 
-- Estruturação de dados e modelagem de bancos locais.
-- Automação de processos repetitivos e redução de retrabalho.
-- Organização de fluxos administrativos, documentos, vencimentos e histórico.
-- Evolução de sistemas internos com foco em confiabilidade, clareza e manutenção.
-- Aprimoramento contínuo em arquitetura de software, backend, frontend e BI.
+## Tecnologias aplicadas
 
-## Bastidores
+**Backend e dados:** Python, SQL, PostgreSQL, SQLite, Node.js e Express.
 
-Boa parte dos meus projetos mais relevantes fica privada porque nasceu de processos reais de empresa. Mesmo assim, meu objetivo no GitHub é documentar essa evolução de forma segura: mostrar problemas, soluções, tecnologias usadas e resultados, sem expor dados internos.
+**Interfaces:** TypeScript, React, HTML/CSS e PyQt5.
 
-## Contato
+**Automação e qualidade:** Pandas, OpenPyXL, relatórios PDF/Excel, testes automatizados e GitHub Actions.
 
-- [LinkedIn](https://www.linkedin.com/in/gabriel-santos-49874a356)
-- [E-mail](mailto:santozgabriiel@gmail.com)
+Continuo aprofundando arquitetura de software, testes de integração e usabilidade para quem utiliza sistemas na rotina de trabalho.
+
+## Privacidade e contexto
+
+Os sistemas operacionais originais permanecem privados. A versão pública foi preparada com identidade neutra, dados sintéticos e ambiente local isolado. Os números apresentados descrevem a demonstração e seus testes, não resultados financeiros ou ganhos de produtividade de uma empresa.
