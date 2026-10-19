@@ -37,14 +37,15 @@ Sistema para registrar notas de transporte de mudas, consultar movimentações e
 **O que faz:**
 - Lançamento manual das informações de notas de campo.
 - Registro de motoristas, operadores, fazendas, talhão de origem, variedade e datas.
-- Histórico de viagens e consultas por origem, destino e período.
-- Indicadores e relatórios de transporte e plantio, com exportações em PDF e Excel.
+- Histórico de viagens com paginação e filtros combinados por origem, destino e variedade.
+- Consultas por data de colheita ou plantio, mantendo o talhão exclusivamente como origem.
+- Indicadores, seis relatórios PDF e exportações Excel para transporte e plantio.
 
 **Tecnologias utilizadas na demonstração:** Python, PyQt5, JavaScript, SQL, PostgreSQL e bibliotecas para relatórios PDF/Excel.
 
 ![Histórico de notas e transporte com dados fictícios](https://raw.githubusercontent.com/gabrisantoss/operacoes-agricolas/main/docs/screenshots/notas.png)
 
-[**Ver código demonstrativo**](https://github.com/gabrisantoss/operacoes-agricolas/tree/main/app_notas) · [**Ver documentação do portfólio**](https://github.com/gabrisantoss/portfolio-sistemas/blob/main/cases/03-rotinas-administrativas.md)
+[**Ver código demonstrativo**](https://github.com/gabrisantoss/operacoes-agricolas/tree/main/app_notas) · [**Estudo de caso do Transporte de Olhadura**](https://github.com/gabrisantoss/portfolio-sistemas/blob/main/cases/05-transporte-olhadura.md)
 
 ---
 
