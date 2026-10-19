@@ -14,7 +14,7 @@ Aqui reúno aplicações que idealizei para organizar informações, simplificar
 
 ## Projetos
 
-### 01 · Balança Audit
+### 01 · Controle de Safra
 
 Sistema para organizar e analisar dados de operações agrícolas, a partir de relatórios de pesagem e planilhas.
 
@@ -26,7 +26,7 @@ Sistema para organizar e analisar dados de operações agrícolas, a partir de r
 
 **Tecnologias utilizadas na demonstração:** React, TypeScript, Node.js, Express, PostgreSQL e processamento de arquivos PDF/Excel.
 
-![Central de relatórios do Balança Audit com dados fictícios](https://raw.githubusercontent.com/gabrisantoss/operacoes-agricolas/main/docs/screenshots/relatorios.png)
+![Central de relatórios do Controle de Safra com dados fictícios](https://raw.githubusercontent.com/gabrisantoss/operacoes-agricolas/main/docs/screenshots/relatorios.png)
 
 [**Ver código demonstrativo**](https://github.com/gabrisantoss/operacoes-agricolas) · [**Ler estudo de caso**](https://github.com/gabrisantoss/portfolio-sistemas/blob/main/cases/04-balanca-audit-inteligencia-operacional.md)
 
