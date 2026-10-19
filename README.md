@@ -2,101 +2,72 @@
 
 # Gabriel Barbosa
 
-### Processos • Dados • Automação • Inteligência Operacional
+**Projetos de software e automação**
 
-**Transformo desafios da rotina operacional em soluções digitais para organizar informações, facilitar análises e apoiar decisões.**
+Aqui reúno aplicações que idealizei para organizar informações, simplificar rotinas e transformar registros em consultas e relatórios.
 
-Estudante de **Sistemas de Informação** · Projetos autorais aplicados a problemas reais
-
-[**Conheça meus projetos**](https://github.com/gabrisantoss/portfolio-sistemas) · [**Explore a demonstração**](https://github.com/gabrisantoss/operacoes-agricolas) · [**LinkedIn**](https://www.linkedin.com/in/gabriel-santos-49874a356)
+[**Demonstração e código**](https://github.com/gabrisantoss/operacoes-agricolas) · [**Estudos de caso**](https://github.com/gabrisantoss/portfolio-sistemas)
 
 </div>
 
 ---
 
-## Sobre mim
+## Projetos
 
-Minha experiência combina **rotinas administrativas, acompanhamento operacional e construção de ferramentas digitais**.
+### 01 · Balança Audit
 
-Ao lidar com planilhas, documentos impressos e informações espalhadas entre diferentes sistemas, comecei a desenvolver aplicações próprias para simplificar consultas, estruturar registros, conferir dados e produzir relatórios úteis.
+Sistema para organizar e analisar dados de operações agrícolas, a partir de relatórios de pesagem e planilhas.
 
-Minha atuação nos projetos envolve **identificar problemas, desenhar os fluxos, definir regras de negócio, orientar o desenvolvimento, testar com cenários reais de uso e aperfeiçoar a solução**. Utilizo ferramentas de **inteligência artificial como apoio à implementação de código**, mantendo a responsabilidade pela definição das necessidades e pela validação funcional.
+**O que faz:**
+- Importação manual de PDFs, CSVs e planilhas Excel, com prévia e conferências.
+- Acompanhamento de fazendas, talhões, ordens de serviço e pesagens.
+- Identificação de divergências, importações repetidas e períodos sobrepostos.
+- Indicadores, consultas e relatórios gerenciais com exportação em PDF.
 
-Tenho interesse em oportunidades que conectem **inteligência operacional, dados, melhoria de processos, automação e tecnologia**.
+**Tecnologias utilizadas na demonstração:** React, TypeScript, Node.js, Express, PostgreSQL e processamento de arquivos PDF/Excel.
 
-## Projetos em destaque
+![Central de relatórios do Balança Audit com dados fictícios](https://raw.githubusercontent.com/gabrisantoss/operacoes-agricolas/main/docs/screenshots/relatorios.png)
 
-### 01. Balança Audit — Gestão e análise de dados operacionais
+[**Ver código demonstrativo**](https://github.com/gabrisantoss/operacoes-agricolas) · [**Ler estudo de caso**](https://github.com/gabrisantoss/portfolio-sistemas/blob/main/cases/04-balanca-audit-inteligencia-operacional.md)
 
-Uma solução de apoio à gestão de safra, criada para transformar documentos e planilhas operacionais em informações consultáveis.
+### 02 · Transporte de Olhadura
 
-- **Importação de relatórios PDF padronizados:** seleção manual, extração, prévia e conferência das informações.
-- **Integração gerencial via Excel:** dados exportados de um sistema corporativo são organizados para consultas e acompanhamento complementar.
-- **Qualidade e rastreabilidade:** verificações de vínculos, divergências, reimportações e possíveis sobreposições.
-- **Inteligência operacional:** acompanhamento de fazendas, talhões, ordens de serviço, produção, indicadores e central de relatórios em PDF.
+Sistema para registrar notas de transporte de mudas, consultar movimentações entre fazendas e gerar relatórios de acompanhamento.
 
-![Central de relatórios com dados fictícios](https://raw.githubusercontent.com/gabrisantoss/operacoes-agricolas/main/docs/screenshots/relatorios.png)
+**O que faz:**
+- Lançamento manual das informações de notas de campo.
+- Registro de motoristas, operadores, fazendas, talhão de origem, variedade e datas.
+- Histórico de viagens e consultas por origem, destino e período.
+- Indicadores e relatórios de transporte e plantio, com exportações em PDF e Excel.
 
-[**Estudo de caso do Balança Audit**](https://github.com/gabrisantoss/portfolio-sistemas/blob/main/cases/04-balanca-audit-inteligencia-operacional.md) · [Código demonstrativo](https://github.com/gabrisantoss/operacoes-agricolas)
+**Tecnologias utilizadas na demonstração:** Python, PyQt5, JavaScript, SQL, PostgreSQL e bibliotecas para relatórios PDF/Excel.
 
-### 02. Transporte de Olhadura — Organização e rastreabilidade de viagens
+![Histórico de notas e transporte com dados fictícios](https://raw.githubusercontent.com/gabrisantoss/operacoes-agricolas/main/docs/screenshots/notas.png)
 
-Uma aplicação para registrar e consultar informações de transporte e plantio a partir de **notas de campo preenchidas manualmente**.
+[**Ver código demonstrativo**](https://github.com/gabrisantoss/operacoes-agricolas/tree/main/app_notas) · [**Ver documentação do portfólio**](https://github.com/gabrisantoss/portfolio-sistemas/blob/main/cases/03-rotinas-administrativas.md)
 
-- Digitação estruturada das notas recebidas.
-- Histórico de viagens, motoristas, operadores, origem e destino.
-- Consultas por fazenda, talhão, variedade e período.
-- Relatórios de movimentação e acompanhamento de plantio.
+---
 
-A entrada das notas continua manual; depois do lançamento, a aplicação facilita a organização e a geração das consultas.
+## Demonstração integrada
 
-![Histórico e consultas demonstrativas de transporte](https://raw.githubusercontent.com/gabrisantoss/operacoes-agricolas/main/docs/screenshots/notas.png)
+As versões públicas estão reunidas em [**Operações Agrícolas**](https://github.com/gabrisantoss/operacoes-agricolas), uma suíte executável localmente que também contém módulos demonstrativos de colaboradores e análises operacionais.
 
-[**Conheça a demonstração**](https://github.com/gabrisantoss/operacoes-agricolas) · [Estudo de rotinas administrativas](https://github.com/gabrisantoss/portfolio-sistemas/blob/main/cases/03-rotinas-administrativas.md)
+O projeto inclui portal de acesso, APIs, banco de dados, testes e relatórios. As imagens e os registros apresentados são **inteiramente fictícios**.
 
-### 03. Operações Agrícolas — Demonstração integrada
+![Portal da demonstração integrada](https://raw.githubusercontent.com/gabrisantoss/operacoes-agricolas/main/docs/screenshots/portal.png)
 
-Uma **suíte pública de demonstração** que reúne versões demonstrativas dos projetos operacionais e outros módulos de apoio administrativo. Não representa um terceiro produto independente dos sistemas destacados acima.
+[**Como executar**](https://github.com/gabrisantoss/operacoes-agricolas#executar-localmente) · [**Arquitetura**](https://github.com/gabrisantoss/operacoes-agricolas/blob/main/docs/ARQUITETURA.md) · [**Validação e testes**](https://github.com/gabrisantoss/operacoes-agricolas/blob/main/docs/VALIDACAO.md)
 
-![Portal da suíte demonstrativa](https://raw.githubusercontent.com/gabrisantoss/operacoes-agricolas/main/docs/screenshots/portal.png)
+## Sobre o desenvolvimento
 
-Inclui portal de acesso, módulos integrados, APIs, persistência em PostgreSQL, consultas e exportações. Foi preparada com **identidade neutra e dados inteiramente fictícios**, sem bases ou documentos operacionais.
+Os projetos surgiram de necessidades que identifiquei em rotinas operacionais e administrativas. Defini os fluxos, as funcionalidades e as regras de negócio, acompanhei os resultados e orientei ajustes. **Grande parte da implementação de código contou com o apoio de assistentes de IA.**
 
-[**Explorar o repositório**](https://github.com/gabrisantoss/operacoes-agricolas) · [Arquitetura](https://github.com/gabrisantoss/operacoes-agricolas/blob/main/docs/ARQUITETURA.md) · [Validação técnica](https://github.com/gabrisantoss/operacoes-agricolas/blob/main/docs/VALIDACAO.md)
-
-## Como trabalho
-
-| Necessidade | Minha abordagem |
-| --- | --- |
-| Informações dispersas em planilhas e documentos | Estruturar dados, cadastros e fluxos de consulta |
-| Conferências manuais e inconsistências | Definir regras, validar importações e evidenciar divergências |
-| Dificuldade em acompanhar uma operação | Organizar indicadores, filtros e relatórios gerenciais |
-| Ferramentas complexas para tarefas recorrentes | Projetar uma experiência mais simples para o uso diário |
-
-## Tecnologias presentes nos projetos
-
-**Dados e backend:** SQL, PostgreSQL, SQLite, Python, Node.js e Express.
-
-**Interfaces:** React, TypeScript, HTML/CSS e PyQt.
-
-**Automação e validação:** Pandas, OpenPyXL, importação de PDF/Excel, testes automatizados e GitHub Actions.
-
-As tecnologias descrevem o ecossistema das aplicações; continuo desenvolvendo minhas competências técnicas com prática, estudo e ferramentas de IA.
-
-## Evidências e transparência
-
-Na validação local registrada em **19/10/2026**, a suíte demonstrativa integrada passou em **143 testes Python e 174 testes TypeScript**. Esses números se referem ao conjunto da demonstração, **não exclusivamente ao Balança Audit**, e não representam uma medição de ganho de produtividade.
-
-Os estudos de caso apresentam problemas, decisões, fluxos, validações e limitações. Todos os exemplos públicos usam **dados sintéticos**; não são divulgadas informações empresariais ou documentos internos.
-
-[**Ler os estudos de caso**](https://github.com/gabrisantoss/portfolio-sistemas)
+Este perfil apresenta os projetos, as tecnologias empregadas e sua documentação — sem atribuir aos exemplos públicos dados ou resultados reais de empresas.
 
 ---
 
 <div align="center">
 
-**Vamos conversar?**
-
-[LinkedIn](https://www.linkedin.com/in/gabriel-santos-49874a356) · [E-mail](mailto:santozgabriiel@gmail.com) · [Repositórios](https://github.com/gabrisantoss?tab=repositories)
+[**LinkedIn**](https://www.linkedin.com/in/gabriel-santos-49874a356) · [**Todos os repositórios**](https://github.com/gabrisantoss?tab=repositories)
 
 </div>
